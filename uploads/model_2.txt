@@ -1,0 +1,2 @@
+1. A DBMS is a software system that stores, manages, and retrieves data efficiently while ensuring data integrity, security, and consistency.
+2. ACID properties (Atomicity, Consistency, Isolation, Durability) ensure reliable and consistent database transactions.
